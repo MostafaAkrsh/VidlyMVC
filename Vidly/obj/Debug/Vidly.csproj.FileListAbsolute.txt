@@ -117,3 +117,4 @@ E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resour
 E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.Movies.resources
 E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.insertGenres.resources
+E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.final.resources
