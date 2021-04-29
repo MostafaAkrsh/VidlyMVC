@@ -118,3 +118,15 @@ E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resource
 E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.Movies.resources
 E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.insertGenres.resources
 E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.final.resources
+E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.a.resources
+E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.b.resources
+E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.c.resources
+E:\wspace\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+E:\wspace\Vidly\Vidly\bin\System.Web.Http.dll
+E:\wspace\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+E:\wspace\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+E:\wspace\Vidly\Vidly\bin\System.Web.Http.xml
+E:\wspace\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+E:\wspace\Vidly\Vidly\bin\AutoMapper.dll
+E:\wspace\Vidly\Vidly\bin\AutoMapper.xml
+E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
