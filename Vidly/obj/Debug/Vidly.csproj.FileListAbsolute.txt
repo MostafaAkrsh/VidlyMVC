@@ -130,3 +130,10 @@ E:\wspace\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 E:\wspace\Vidly\Vidly\bin\AutoMapper.dll
 E:\wspace\Vidly\Vidly\bin\AutoMapper.xml
 E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+E:\wspace\Vidly\Vidly\bin\Glimpse.Ado.dll
+E:\wspace\Vidly\Vidly\bin\Glimpse.AspNet.dll
+E:\wspace\Vidly\Vidly\bin\Glimpse.Core.dll
+E:\wspace\Vidly\Vidly\bin\Glimpse.EF6.dll
+E:\wspace\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.rental.resources
+E:\wspace\Vidly\Vidly\obj\Debug\Vidly.Migrations.available.resources
